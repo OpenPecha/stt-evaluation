@@ -1,7 +1,5 @@
 
-downloaded_datasets/
 evaluate_benchmark_v1.ipynb
 evaluate_benchmark_v3.ipynb
-get_benchmark.ipynb
 wav2vec2/
 whisper/
